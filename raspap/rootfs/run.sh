@@ -1,5 +1,7 @@
 #!/bin/bash
 
+sleep 5
+
 # SIGTERM-handler this funciton will be executed when the container receives the SIGTERM signal (when stopping)
 term_handler() {
   logger "Stopping Hass.io Access Point" 0
