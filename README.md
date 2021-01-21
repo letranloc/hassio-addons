@@ -1,4 +1,4 @@
-# Hass.io Add-ons by ThePicklenat0r
+# Hass.io Add-ons by letranloc
 
 ## About
 
